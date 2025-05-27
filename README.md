@@ -36,3 +36,45 @@
  - Για να τρέξει το frontend, μέσα στον αντίστοιχο φάκελο τρέξε:
  
     npm start
+
+
+
+
+The app is a mobile application that allows users to make restaurant reservations easily and quickly through their mobile phones.
+
+
+Below, there is also a presentation video of the app.
+
+
+
+-For the app to work, the following are needed:
+
+-All dependencies listed in the package.json files of the frontend and backend must be installed.
+
+-A .env file must exist in the backend with the following variables:
+
+PORT=
+
+JWT_SECRET=
+
+DB_HOST=
+
+DB_USER=
+
+DB_PASSWORD=
+
+DB_NAME=reservation_app
+
+-In the screens folder of the frontend, where the connection to the backend takes place, the user’s (server) IP must be added.
+
+-The database used by the app is located inside the backend folder.
+
+-To run the backend server, run inside the backend folder the command:
+
+
+node index.js
+
+-To run the frontend, run inside the respective folder the command:
+
+
+npm start
