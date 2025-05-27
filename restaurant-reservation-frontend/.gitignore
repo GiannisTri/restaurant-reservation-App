@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build files
+android/.gradle/
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Debug / Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# Expo (αν χρησιμοποιείς Expo)
+.expo/
+.expo-shared/
+web-build/
+dist/
+
+# Metro
+.metro-health-check*
+
+# Keys & sensitive
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# TypeScript
+*.tsbuildinfo
