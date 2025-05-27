@@ -5,17 +5,21 @@
 - Να κατεβούν όλα τα dependencies που αναφέρονται στα `package.json` του frontend και backend.
 - Να υπάρχει αρχείο `.env` στο backend με τις εξής μεταβλητές:
 - PORT=
-JWT_SECRET=
-DB_HOST=
-DB_USER=
-DB_PASSWORD=
-DB_NAME=reservation_app
+   JWT_SECRET=
+  
+   DB_HOST=
+  
+   DB_USER=
+  
+   DB_PASSWORD=
+  
+   DB_NAME=reservation_app
 
 - Στον φάκελο `screens` του frontend, εκεί που γίνεται η σύνδεση με το backend, πρέπει να προστεθεί η IP του χρήστη (server).
 - Η βάση δεδομένων που χρησιμοποιεί η εφαρμογή βρίσκεται μέσα στον φάκελο `backend`.
 - Για να τρέξει ο backend server, τρέξε μέσα στον φάκελο `backend` την εντολή:
-- node index.js
+    node index.js
 
  - Για να τρέξει το frontend, μέσα στον αντίστοιχο φάκελο τρέξε:
  
-- npm start
+    npm start
