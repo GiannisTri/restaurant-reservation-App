@@ -38,6 +38,15 @@
     npm start
 
 
+   
+
+
+
+
+
+
+
+
 
 
 The app is a mobile application that allows users to make restaurant reservations easily and quickly through their mobile phones.
