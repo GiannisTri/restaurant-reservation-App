@@ -4,7 +4,9 @@
 
 - Να κατεβούν όλα τα dependencies που αναφέρονται στα `package.json` του frontend και backend.
 - Να υπάρχει αρχείο `.env` στο backend με τις εξής μεταβλητές:
-- PORT=
+  
+   PORT=
+  
    JWT_SECRET=
   
    DB_HOST=
