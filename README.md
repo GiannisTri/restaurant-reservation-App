@@ -5,7 +5,7 @@
 
 Παρακάτω υπάρχει και ένα βίντεο παρουσίασης της εφαρμογής.
 
-
+https://www.youtube.com/shorts/DjxAOP3zqZs
 
 
 
@@ -56,6 +56,7 @@ The app is a mobile application that allows users to make restaurant reservation
 
 Below, there is also a presentation video of the app.
 
+https://www.youtube.com/shorts/DjxAOP3zqZs
 
 
 -For the app to work, the following are needed:
